@@ -1,0 +1,13 @@
+tqdm
+numpy
+pandas
+matplotlib
+polars
+scikit-learn
+fasttext 
+pymorphy2 
+torch 
+transformers 
+accelerate 
+langchain_openai
+wordcloud
